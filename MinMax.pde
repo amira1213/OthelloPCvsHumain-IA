@@ -79,7 +79,6 @@ void draw(){
    stroke(0);
   lights();
   
-  //lkhorti dyali 
 
  int f=0; 
  
